@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;GPCK&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../watchyour.site" />
+      <root url="file://$PROJECT_DIR$/../../../crawler" />
+      <root url="file://$PROJECT_DIR$/../.." />
+    </CLASSES>
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
